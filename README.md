@@ -6,4 +6,4 @@ Only the Main table is needed.
 
 Inputs uses tables.
 
-declare tables with in and out for testing.
+declare tables with time-in and time-out for testing.
